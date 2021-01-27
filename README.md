@@ -3,9 +3,7 @@ My second python snek with awful graphics taken from free png and cut in paint
 First time using pygames 
 
 # Sound credit
-Celestial Saute by Apoxode 
-(c) copyright 2021 Licensed under a Creative Commons Attribution Noncommercial  (3.0) license. http://dig.ccmixter.org/files/Apoxode/62943 
-Ft: Admiral Bob, Ivan Chew, Siobhan Dakay
+Music: https://www.bensound.com
 
 # You need to install pygames
 if you have python installed in your computer, go to your terminal or your invite command
