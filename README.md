@@ -20,14 +20,14 @@ If you see any place for improvement, please, reach out :)
 
 
 # Updates
-Snek has good graphics (considering my paint talents..) and fruit is working properly
-Added a list of fruits now (3 fruits that show at random)
-Added a background sound, eating sound and gameover sound
-Added feature: snake stays still at the begining of each game until a direction is given instead of going right automatically
-Added feature: game doesn't close when gameover, it only resets at the starting position
+- Snek has good graphics (considering my paint talents..) and fruit is working properly
+- Added a list of fruits now (3 fruits that show at random)
+- Added a background sound, eating sound and gameover sound
+- Added feature: snake stays still at the begining of each game until a direction is given instead of going right automatically
+- Added feature: game doesn't close when gameover, it only resets at the starting position
 
 Future updates:
-a proper menu
-toggle on/off background music from menu
-top 3 scores from menu (txt? csv?)
-taking off the borders and making the snake teleport from one border to the other
+- a proper menu
+- toggle on/off background music from menu
+- top 3 scores from menu (txt? csv?)
+- taking off the borders and making the snake teleport from one border to the other
